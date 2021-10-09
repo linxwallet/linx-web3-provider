@@ -1,13 +1,13 @@
-# AlphaWalletWeb3Provider
+# LinxWeb3Provider
 
-## How to Identify AlphaWallet Provider
+## How to Identify LinxWallet Provider
 
-If AlphaWallet provider injected properly `isAlphaWallet` will be `true`
+If LinxWallet provider injected properly `isLinxWallet` will be `true`
 
 ```javascript
- web3.currentProvider.isAlphaWallet
+ web3.currentProvider.isLinxWallet
 ```
 
 ## License
 
-AlphaWalletWeb3Provider is available under the MIT license. See the LICENSE file for more info.
+LinxWeb3Provider is available under the MIT license. See the LICENSE file for more info.
